@@ -1,4 +1,4 @@
-// const add = require('./math.js');
+// const add = require('./math.js');  //*This is called common js
 // const mult = require('./math.js'); //!these are for condition 1
 
 const { add , subtract, multiply, divide } = require('./math.js');//!this is for condition 2 and 3
